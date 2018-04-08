@@ -27,9 +27,6 @@ namespace calculator
             Console.WriteLine("Enter another number: ");
             secondNumber = Double.Parse(Console.ReadLine());
 
-           //What should I put the while loop equal to firstNumber == ? to make it loop
-           //How to make else statement print?
-
            
 
             if (ops == "+")
