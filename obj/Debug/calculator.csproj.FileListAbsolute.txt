@@ -1,0 +1,7 @@
+C:\Users\nelto\source\repos\calculator\bin\Debug\calculator.exe.config
+C:\Users\nelto\source\repos\calculator\bin\Debug\calculator.exe
+C:\Users\nelto\source\repos\calculator\bin\Debug\calculator.pdb
+C:\Users\nelto\source\repos\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\nelto\source\repos\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\nelto\source\repos\calculator\obj\Debug\calculator.exe
+C:\Users\nelto\source\repos\calculator\obj\Debug\calculator.pdb
